@@ -11,12 +11,60 @@
         "en_US": "Skills",
         "zh_CN": "技能"
     },
-   "menuResume": {
-        "en_US": "Resume",
+   "selectLanguageId": {
+        "en_US": "Select a Language",
         "zh_CN": "简历"
     },
-   "menuContact": {
-        "en_US": "Contact",
+   "selectLanguageOption": {
+        "en_US": "-- Select a Language --",
+        "zh_CN": "联系"
+    },
+   "downloadResumeBtnIdTxt": {
+        "en_US": "Download Resume in PDF",
+        "zh_CN": "联系"
+    },
+   "aboutTxtId": {
+        "en_US": "Someone who was borned to be passionate to accept challenges and expanding skills and abilities. Friendly and was called once a phlegmatic.",
+        "zh_CN": "联系"
+    },
+   "softwareSystemDeveloperTxtId": {
+        "en_US": "Software System Developer",
+        "zh_CN": "联系"
+    },
+   "softwareSystemDeveloperDescTxtId": {
+        "en_US": "Very interested with programming and developing softwares and apps.",
+        "zh_CN": "联系"
+    },
+   "birthYearTxtId": {
+        "en_US": "Birth Year",
+        "zh_CN": "联系"
+    },
+   "cityValueTxtId": {
+        "en_US": "Selangor, Malaysia",
+        "zh_CN": "联系"
+    },
+   "cityTxtId": {
+        "en_US": "City",
+        "zh_CN": "联系"
+    },
+   "ageTxtId": {
+        "en_US": "Age",
+        "zh_CN": "联系"
+    },
+   "degreeTxtId": {
+        "en_US": "Degree",
+        "zh_CN": "联系"
+    },
+   "degreeValueTxtId": {
+        "en_US": "Bachelor of Information Technology (Honours) in Software Systems Development",
+        "zh_CN": "联系"
+    },
+   "hobbyOneTxtId": {
+        "en_US": "Have a hobby to write my own apps and softwares to make my life easier. Interested in learning Ethical Hacking with Kali Linux.",
+        "zh_CN": "联系"
+    },
+   "hobbyTwoTxtId": {
+        "en_US": "Play alot of sports, badminton, pingpong, squash, jungle tracking, to get healthier. Gets addicted recently to Scuba Diving to get closer to the mother nature.",
         "zh_CN": "联系"
     }
 }
