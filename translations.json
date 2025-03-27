@@ -51,6 +51,10 @@
         "en_US": "Selangor, Malaysia",
         "zh_CN": "雪兰莪，马来西亚"
     },
+   "cityValueTwoTxtId": {
+        "en_US": "Selangor, Malaysia",
+        "zh_CN": "雪兰莪，马来西亚"
+    },
    "cityTxtId": {
         "en_US": "City",
         "zh_CN": "城市"
@@ -107,8 +111,152 @@
         "en_US": "Skills",
         "zh_CN": "技能"
     },
-   "skillsTxtId": {
-        "en_US": "Looking forward to enhancing and improving my current knowledge and skills.",
-        "zh_CN": "期待增强和提高我目前的知识和技能。"
+   "resumeTxtId": {
+        "en_US": "Resume",
+        "zh_CN": "简历"
+    },
+   "resumeDescTxtId": {
+        "en_US": "A short, simple and straight to point resume.",
+        "zh_CN": "一份简短、简洁、直奔主题的简历。"
+    },
+   "iceBreakTxtId": {
+        "en_US": "Innovative, deadline-driven and problem solving Software System Developer with 2 years of experience mainly developing Warehouse Automation software from initial concept to final, polished deliverable.",
+        "zh_CN": "具有创新精神、注重时效且善于解决问题的软件系统开发人员，拥有 2 年经验，主要负责开发仓库自动化软件，从最初的概念到最终完善的交付。"
+    },
+   "educationalQualitificationTxtId": {
+        "en_US": "Educational Qualifications",
+        "zh_CN": "教育背景"
+    },
+   "degreeQualificationTxtId": {
+        "en_US": "Bachelor of Information Technology (Honours) in Software Systems Development",
+        "zh_CN": "信息技术（荣誉）学士学位，主修软件系统开发"
+    },
+   "degreeCollegeNameTxtId": {
+        "en_US": "Tunku Abdul Rahman College, Kuala Lumpur (TARC, KL)",
+        "zh_CN": "吉隆坡东姑阿都拉曼学院 (TARC, KL)"
+    },
+   "degreeGradeTxtId": {
+        "en_US": "Achieved overall Merit grade",
+        "zh_CN": "总成绩优秀"
+    },
+   "diplomaQualificationTxtId": {
+        "en_US": "Diploma of Information System Engineering in Computer Science",
+        "zh_CN": "计算机科学信息系统工程文凭"
+    },
+   "diplomaCollegeNameTxtId": {
+        "en_US": "Tunku Abdul Rahman College, Kuala Lumpur (TARC, KL)",
+        "zh_CN": "吉隆坡东姑阿都拉曼学院 (TARC, KL)"
+    },
+   "diplomaGradeTxtId": {
+        "en_US": "Achieved overall Merit grade",
+        "zh_CN": "总成绩优秀"
+    },
+   "professionalExperienceTxtId": {
+        "en_US": "Professional Experience",
+        "zh_CN": "工作经验"
+    },
+   "backendLeadEngineerTxtId": {
+        "en_US": "Backend Lead Engineer (Based In China)",
+        "zh_CN": "后端负责人 (中国)"
+    },
+   "backendLeadEngineerPeriodTxtId": {
+        "en_US": "Since Dec 2024 - Present",
+        "zh_CN": "自 2024 年 12 月至今"
+    },
+   "backendLeadEngineerPointOneTxtId": {
+        "en_US": "Leading projects",
+        "zh_CN": "领导项目"
+    },
+   "backendLeadEngineerPointTwoTxtId": {
+        "en_US": "Involved in developing and implementing core features to the system",
+        "zh_CN": "参与系统核心功能的开发与实施"
+    },
+   "backendLeadEngineerPointThreeTxtId": {
+        "en_US": "Involved in projects coming from different countries to implement different features according to requirement",
+        "zh_CN": "参与来自不同国家的项目，根据需求实施不同的功能"
+    },
+   "backendLeadEngineerPointFourTxtId": {
+        "en_US": "Babysit new joiners and give appropriate trainings",
+        "zh_CN": "指导新员工并提供适当的培训"
+    },
+   "neteaseBusinessPartnerTxtId": {
+        "en_US": "NetEase, Inc - Malaysia Business Partner (Remote)",
+        "zh_CN": "网易公司 - 马来西亚业务合作伙伴 (远程)"
+    },
+   "neteaseBusinessPartnerPeriodTxtId": {
+        "en_US": "Since 2022 - Present",
+        "zh_CN": "自 2022 年至今"
+    },
+   "neteaseBusinessPartnerProductTxtId": {
+        "en_US": "UU Game Booster & GearUP Game Booster",
+        "zh_CN": "UU 加速器 & GearUP 加速器"
+    },
+   "neteaseBusinessPartnerPointOneTxtId": {
+        "en_US": "Involved in conducting researches of the company's products",
+        "zh_CN": "参与公司产品的调研工作"
+    },
+   "neteaseBusinessPartnerPointTwoTxtId": {
+        "en_US": "Involved to conduct market surveys",
+        "zh_CN": "参与市场调查"
+    },
+   "neteaseBusinessPartnerPointThreeTxtId": {
+        "en_US": "Involved in R&D related matters such as product testing",
+        "zh_CN": "参与研发相关事务，如产品测试"
+    },
+   "neteaseBusinessPartnerPointFourTxtId": {
+        "en_US": "Involved in conducting interviews with players",
+        "zh_CN": "参与玩家访谈"
+    },
+   "softwareApplicationEngineerTxtId": {
+        "en_US": "Software Application Engineer (Based In Malaysia)",
+        "zh_CN": "软件应用工程师 (马来西亚)"
+    },
+   "softwareApplicationEngineerPeriodTxtId": {
+        "en_US": "Since Aug 2020 - Nov 2024 (4 years 3 months)",
+        "zh_CN": "自 2020 年 8 月至 2024 年 11 月 (4 年 3 个月)"
+    },
+   "softwareApplicationEngineerCompanyTxtId": {
+        "en_US": "Swisslog Malaysia Sdn. Bhd.",
+        "zh_CN": "瑞仕格马来西亚有限公司"
+    },
+   "softwareApplicationEngineerPointOneTxtId": {
+        "en_US": "Add & Optimize the features from Swisslog project's standard",
+        "zh_CN": "根据瑞仕格项目标准添加和优化功能"
+    },
+   "softwareApplicationEngineerPointTwoTxtId": {
+        "en_US": "Involved in developing and implementing core features to the system",
+        "zh_CN": "参与系统核心功能的开发与实施"
+    },
+   "softwareApplicationEngineerPointThreeTxtId": {
+        "en_US": "Provide quality tests to ensure the feature works as expected",
+        "zh_CN": "提供质量测试，以确保功能按预期工作"
+    },
+   "softwareApplicationEngineerPointFourTxtId": {
+        "en_US": "Involved in projects coming from different countries to implement different features according to requirement",
+        "zh_CN": "参与来自不同国家的项目，根据需求实施不同的功能"
+    },
+   "siriuslabTxtId": {
+        "en_US": "Founder & Director (Based In Malaysia)",
+        "zh_CN": "创始人兼董事 (马来西亚)"
+    },
+   "siriuslabPeriodTxtId": {
+        "en_US": "Since 2021 - 2024 (3 years)",
+        "zh_CN": "自 2021 年至 2024 年 (3 年)"
+    },
+   "siriuslabPointOneTxtId": {
+        "en_US": "Role as leader, to mainly leads the whole company towards the goal",
+        "zh_CN": "担任领导者角色，主要带领整个公司朝着目标前进"
+    },
+   "siriuslabPointTwoTxtId": {
+        "en_US": "Role as the Software Architect for the company's products",
+        "zh_CN": "担任公司产品的软件架构师"
+    },
+   "siriuslabPointThreeTxtId": {
+        "en_US": "Role as project manager to ensure project delivery is under control",
+        "zh_CN": "担任项目经理，以确保项目交付受控"
+    },
+   "cocurricularTxtId": {
+        "en_US": "Co-curricular Activities",
+        "zh_CN": "课外活动"
     }
 }
