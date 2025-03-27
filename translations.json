@@ -69,10 +69,46 @@
     },
    "hobbyOneTxtId": {
         "en_US": "Have a hobby to write my own apps and softwares to make my life easier. Interested in learning Ethical Hacking with Kali Linux.",
-        "zh_CN": "喜欢编写自己的应用程序和软件，以使我的生活更轻松。 对使用Kali Linux学习道德黑客技术很感兴趣。"
+        "zh_CN": "喜欢编写自己的应用程序和软件，以使我的生活更轻松。 对使用 Kali Linux 学习黑客技术很感兴趣。"
     },
    "hobbyTwoTxtId": {
         "en_US": "Play alot of sports, badminton, pingpong, squash, jungle tracking, to get healthier. Gets addicted recently to Scuba Diving to get closer to the mother nature.",
         "zh_CN": "做很多运动，羽毛球、乒乓球、壁球、丛林徒步旅行，以保持健康。 最近迷上了水肺潜水，以更接近大自然。"
+    },
+   "aboutTitleTxtId": {
+        "en_US": "About",
+        "zh_CN": ""
+    },
+   "factsTitleTxtId": {
+        "en_US": "Facts",
+        "zh_CN": ""
+    },
+   "factsTxtId": {
+        "en_US": "Usually very active on night, either having activities outside or staying at home enjoying with games or programming.",
+        "zh_CN": ""
+    },
+   "factsOneTxtId": {
+        "en_US": "Days staying happy",
+        "zh_CN": ""
+    },
+   "factsTwoTxtId": {
+        "en_US": "Passionate to IT Stuffs",
+        "zh_CN": ""
+    },
+   "factsThreeTxtId": {
+        "en_US": "Passionate to learn new things",
+        "zh_CN": ""
+    },
+   "factsFourTxtId": {
+        "en_US": "Friendlyness",
+        "zh_CN": ""
+    },
+   "skillsTitleTxtId": {
+        "en_US": "Skills",
+        "zh_CN": ""
+    },
+   "skillsTxtId": {
+        "en_US": "Looking forward to enhancing and improving my current knowledge and skills.",
+        "zh_CN": ""
     }
 }
