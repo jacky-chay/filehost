@@ -10,5 +10,5 @@ vless://30f85233-d41e-4297-97c1-cfac047a948b@193.123.248.228:23333/?type=tcp&enc
 
 https://owo.o00o.ooo/sub?host=cardiac-streams-tee-flush.trycloudflare.com&uuid=dc92d50a-af9e-48e7-bff5-afe481e10d0e&path=%2Fvmess-argo%3Fed%3D2048&sni=cardiac-streams-tee-flush.trycloudflare.com&type=none&alpn=&alterid=0&security=none
 
-vmess://eyJhZGQiOiJ3d3cudmlzYS5jb20udHciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNhcmRpYWMtc3RyZWFtcy10ZWUtZmx1c2gudHJ5Y2xvdWRmbGFyZS5jb20iLCJpZCI6ImRjOTJkNTBhLWFmOWUtNDhlNy1iZmY1LWFmZTQ4MWUxMGQwZSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy1hcmdvP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IkRFLUNUOC12bWVzcy1hcmdvIiwic2N5Ijoibm9uZSIsInNuaSI6ImNhcmRpYWMtc3RyZWFtcy10ZWUtZmx1c2gudHJ5Y2xvdWRmbGFyZS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
 
