@@ -5,7 +5,7 @@
     },
    "menuAbout": {
         "en_US": "About",
-        "zh_CN": "关于"
+        "zh_CN": "关于我"
     },
    "menuSkills": {
         "en_US": "Skills",
@@ -13,58 +13,58 @@
     },
    "selectLanguageId": {
         "en_US": "Select a Language",
-        "zh_CN": "简历"
+        "zh_CN": "选择语言"
     },
    "selectLanguageOption": {
         "en_US": "-- Select a Language --",
-        "zh_CN": "联系"
+        "zh_CN": "-- 选择语言 --"
     },
    "downloadResumeBtnIdTxt": {
         "en_US": "Download Resume in PDF",
-        "zh_CN": "联系"
+        "zh_CN": "下载PDF简历"
     },
    "aboutTxtId": {
         "en_US": "Someone who was borned to be passionate to accept challenges and expanding skills and abilities. Friendly and was called once a phlegmatic.",
-        "zh_CN": "联系"
+        "zh_CN": "我天生就充满热情，喜欢接受挑战并扩展技能和能力。 友善，曾经被称为冷静型的人。"
     },
    "softwareSystemDeveloperTxtId": {
         "en_US": "Software System Developer",
-        "zh_CN": "联系"
+        "zh_CN": "软件系统开发工程师"
     },
    "softwareSystemDeveloperDescTxtId": {
         "en_US": "Very interested with programming and developing softwares and apps.",
-        "zh_CN": "联系"
+        "zh_CN": "对编程和开发软件及应用程序非常感兴趣。"
     },
    "birthYearTxtId": {
         "en_US": "Birth Year",
-        "zh_CN": "联系"
+        "zh_CN": "出生年份"
     },
    "cityValueTxtId": {
         "en_US": "Selangor, Malaysia",
-        "zh_CN": "联系"
+        "zh_CN": "雪兰莪，马来西亚"
     },
    "cityTxtId": {
         "en_US": "City",
-        "zh_CN": "联系"
+        "zh_CN": "城市"
     },
    "ageTxtId": {
         "en_US": "Age",
-        "zh_CN": "联系"
+        "zh_CN": "年龄"
     },
    "degreeTxtId": {
         "en_US": "Degree",
-        "zh_CN": "联系"
+        "zh_CN": "学历"
     },
    "degreeValueTxtId": {
         "en_US": "Bachelor of Information Technology (Honours) in Software Systems Development",
-        "zh_CN": "联系"
+        "zh_CN": "信息技术（荣誉）软件系统开发学士"
     },
    "hobbyOneTxtId": {
         "en_US": "Have a hobby to write my own apps and softwares to make my life easier. Interested in learning Ethical Hacking with Kali Linux.",
-        "zh_CN": "联系"
+        "zh_CN": "喜欢编写自己的应用程序和软件，以使我的生活更轻松。 对使用Kali Linux学习道德黑客技术很感兴趣。"
     },
    "hobbyTwoTxtId": {
         "en_US": "Play alot of sports, badminton, pingpong, squash, jungle tracking, to get healthier. Gets addicted recently to Scuba Diving to get closer to the mother nature.",
-        "zh_CN": "联系"
+        "zh_CN": "做很多运动，羽毛球、乒乓球、壁球、丛林徒步旅行，以保持健康。 最近迷上了水肺潜水，以更接近大自然。"
     }
 }
