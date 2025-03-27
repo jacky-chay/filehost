@@ -11,6 +11,14 @@
         "en_US": "Skills",
         "zh_CN": "技能"
     },
+   "menuResume": {
+        "en_US": "Resume",
+        "zh_CN": "简历"
+    },
+   "menuContact": {
+        "en_US": "Contact",
+        "zh_CN": "联系"
+    },
    "selectLanguageId": {
         "en_US": "Select a Language",
         "zh_CN": "选择语言"
