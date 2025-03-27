@@ -77,38 +77,38 @@
     },
    "aboutTitleTxtId": {
         "en_US": "About",
-        "zh_CN": ""
+        "zh_CN": "关于"
     },
    "factsTitleTxtId": {
         "en_US": "Facts",
-        "zh_CN": ""
+        "zh_CN": "事实"
     },
    "factsTxtId": {
         "en_US": "Usually very active on night, either having activities outside or staying at home enjoying with games or programming.",
-        "zh_CN": ""
+        "zh_CN": "通常在晚上非常活跃，要么在外面活动，要么待在家里享受游戏或编程。"
     },
    "factsOneTxtId": {
         "en_US": "Days staying happy",
-        "zh_CN": ""
+        "zh_CN": "快乐的日子"
     },
    "factsTwoTxtId": {
         "en_US": "Passionate to IT Stuffs",
-        "zh_CN": ""
+        "zh_CN": "对IT事物充满热情"
     },
    "factsThreeTxtId": {
         "en_US": "Passionate to learn new things",
-        "zh_CN": ""
+        "zh_CN": "热衷于学习新事物"
     },
    "factsFourTxtId": {
         "en_US": "Friendlyness",
-        "zh_CN": ""
+        "zh_CN": "友善"
     },
    "skillsTitleTxtId": {
         "en_US": "Skills",
-        "zh_CN": ""
+        "zh_CN": "技能"
     },
    "skillsTxtId": {
         "en_US": "Looking forward to enhancing and improving my current knowledge and skills.",
-        "zh_CN": ""
+        "zh_CN": "期待增强和提高我目前的知识和技能。"
     }
 }
