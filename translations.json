@@ -1,0 +1,10 @@
+{
+   "introductionVar": {
+        "cn_zh": "你好，我是 Ben",
+        "en_US": "Hello, I'm Ben"
+    },
+   "descriptionText": {
+        "cn_zh": "这是一个本地化示例。",
+        "en_US": "This is a localization example."
+    }
+}
