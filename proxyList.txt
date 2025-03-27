@@ -1,6 +1,6 @@
-https://little-dragon-1010.pages.dev/12345
+https://little-dragon-1010.pages.dev
 
-https://rough-firefly-01sb.pages.dev/123abc321ABC
+https://rough-firefly-01sb.pages.dev
 
 vless://facc35fe-23ac-44a6-88fd-751091b32889@206.237.22.91:449?encryption=none&security=tls&allowInsecure=1&type=xhttp&host=ccc.xiaozi.us.kg&path=%2Flzjj&mode=auto#vless%2Bxhttp-lzj
 
