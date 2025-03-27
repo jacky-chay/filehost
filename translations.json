@@ -1,22 +1,10 @@
 {
-   "menuHome": {
-        "en_US": "Home",
-        "zh_CN": "首页"
+   "introductionVar": {
+        "cn_zh": "你好，我是 Ben",
+        "en_US": "Hello, I'm Ben"
     },
-   "menuAbout": {
-        "en_US": "About",
-        "zh_CN": "关于"
-    },
-   "menuSkills": {
-        "en_US": "Skils",
-        "zh_CN": "技能"
-    },
-   "menuResume": {
-        "en_US": "Resume",
-        "zh_CN": "简历"
-    },
-   "menuContact": {
-        "en_US": "Contact",
-        "zh_CN": "联系"
+   "descriptionText": {
+        "cn_zh": "这是一个本地化示例。",
+        "en_US": "This is a localization example."
     }
 }
