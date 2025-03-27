@@ -1,22 +1,22 @@
 {
    "menuHome": {
         "en_US": "Home",
-        "zh_CN": "首页",
+        "zh_CN": "首页"
     },
    "menuAbout": {
         "en_US": "About",
-        "zh_CN": "关于",
+        "zh_CN": "关于"
     },
    "menuSkills": {
         "en_US": "Skils",
-        "zh_CN": "技能",
+        "zh_CN": "技能"
     },
    "menuResume": {
         "en_US": "Resume",
-        "zh_CN": "简历",
+        "zh_CN": "简历"
     },
    "menuContact": {
         "en_US": "Contact",
-        "zh_CN": "联系",
+        "zh_CN": "联系"
     }
 }
