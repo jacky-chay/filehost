@@ -157,7 +157,7 @@
     },
    "backendLeadEngineerTxtId": {
         "en_US": "Backend Lead Engineer (Based In China)",
-        "zh_CN": "后端负责人 (中国)"
+        "zh_CN": "后端开发领导 (中国)"
     },
    "backendLeadEngineerPeriodTxtId": {
         "en_US": "Since Dec 2024 - Present",
@@ -237,7 +237,7 @@
     },
    "siriuslabTxtId": {
         "en_US": "Founder & Director (Based In Malaysia)",
-        "zh_CN": "创始人兼董事 (马来西亚)"
+        "zh_CN": "创始人与董事 (马来西亚)"
     },
    "siriuslabPeriodTxtId": {
         "en_US": "Since 2021 - 2024 (3 years)",
@@ -258,5 +258,105 @@
    "cocurricularTxtId": {
         "en_US": "Co-curricular Activities",
         "zh_CN": "课外活动"
+    },
+   "scubaDivingTxtId": {
+        "en_US": "Scuba Diving",
+        "zh_CN": "水肺潜水"
+    },
+   "scubaDivingPeriodTxtId": {
+        "en_US": "2021 - Present",
+        "zh_CN": "2021年 - 至今"
+    },
+   "scubaDivingRankTxtId": {
+        "en_US": "Advanced Open Water Scuba Diver",
+        "zh_CN": "高级开放水域潜水员"
+    },
+   "scubaDivingCertTxtId": {
+        "en_US": "Professional Association of Diving Instructors (PADI)",
+        "zh_CN": "专业潜水教练协会 (PADI)"
+    },
+   "scubaDivingDescTxtId": {
+        "en_US": "As an active scuba diver of the Advance Group",
+        "zh_CN": "作为Advance Group的活跃水肺潜水员"
+    },
+   "swimmingTxtId": {
+        "en_US": "Swimming",
+        "zh_CN": "游泳"
+    },
+   "swimmingRankTxtId": {
+        "en_US": "Advance Group Active member",
+        "zh_CN": "Advance Group 活跃成员"
+    },
+   "swimmingCollegeTxtId": {
+        "en_US": "Tunku Abdul Rahman College, Kuala Lumpur (TARC, KL)",
+        "zh_CN": "吉隆坡拉曼大学学院 (TARC, KL)"
+    },
+   "swimmingPointOneTxtId": {
+        "en_US": "As an active member of the Advance Group",
+        "zh_CN": "作为Advance Group的活跃成员"
+    },
+   "swimmingPointTwoTxtId": {
+        "en_US": "Learn advanced swimming skills and rescueing skills",
+        "zh_CN": "学习高级游泳技巧和救援技巧"
+    },
+   "swimmingPointThreeTxtId": {
+        "en_US": "Help on training beginner groups weekly",
+        "zh_CN": "每周帮助培训初学者组"
+    },
+   "gymTxtId": {
+        "en_US": "Gymnasium",
+        "zh_CN": "健身房"
+    },
+   "gymRankTxtId": {
+        "en_US": "President",
+        "zh_CN": "主席"
+    },
+   "gymCollegeTxtId": {
+        "en_US": "Tunku Abdul Rahman College, Kuala Lumpur (TARC, KL)",
+        "zh_CN": "吉隆坡拉曼大学学院 (TARC, KL)"
+    },
+   "gymPointOneTxtId": {
+        "en_US": "Leading a group of 60 TARC students that joined Gymnasium",
+        "zh_CN": "带领60名加入健身房的拉曼大学学院学生"
+    },
+   "gymPointTwoTxtId": {
+        "en_US": "Organized sport competitions, arrange sports activities for them to train on a weekly",
+        "zh_CN": "组织体育比赛，安排每周的体育活动训练"
+    },
+   "gymPointThreeTxtId": {
+        "en_US": "Designed our own T-Shirt with Gymnasium logo on it",
+        "zh_CN": "设计我们自己的带有健身房标志的T恤"
+    },
+   "mathSocialTxtId": {
+        "en_US": "Mathematical Society",
+        "zh_CN": "数学学会"
+    },
+   "mathSocialRankTxtId": {
+        "en_US": "President",
+        "zh_CN": "主席"
+    },
+   "mathSocialPointOneTxtId": {
+        "en_US": "Leading a group of 50 members under the society",
+        "zh_CN": "带领学会旗下 50 名成员"
+    },
+   "mathSocialPointTwoTxtId": {
+        "en_US": "Organized a few activities such as hosting station games during school fairs and mathematical quiz during classes",
+        "zh_CN": "组织了一些活动，例如在学校集市期间举办站点游戏，以及在课堂上进行数学测验"
+    },
+   "locationFooterTxtId": {
+        "en_US": "Location",
+        "zh_CN": "地点"
+    },
+   "locationFooterValueTxtId": {
+        "en_US": "Malaysia, China",
+        "zh_CN": "马来西亚，中国"
+    },
+   "emailFooterTxtId": {
+        "en_US": "Email",
+        "zh_CN": "邮箱"
+    },
+   "callFooterTxtId": {
+        "en_US": "Call",
+        "zh_CN": "电话"
     }
 }
