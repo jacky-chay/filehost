@@ -1,1 +1,1 @@
-vless://6c3d3466-0f2d-432d-9193-bb5a869b483e@little-dragon-1010.pages.dev:443?encryption=none&security=tls&sni=little-dragon-1010.pages.dev&fp=randomized&type=ws&host=little-dragon-1010.pages.dev&path=%2F%3Fed%3D2560#edgetunnel
+https://little-dragon-1010.pages.dev/12345?clash
