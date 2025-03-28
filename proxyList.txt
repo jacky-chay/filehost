@@ -1,3 +1,5 @@
+hysteria2://0aed82ca-fd08-11ef-8cf9-f23c93136cb3@107.167.18.123:443?sni=06a68208-st69s0-su9bm5-1phl.la.shifen.uk&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD1%20%7C%20%E2%AC%87%EF%B8%8F%204.8MB%2Fs
+
 vless://facc35fe-23ac-44a6-88fd-751091b32889@206.237.22.91:449?encryption=none&security=tls&allowInsecure=1&type=xhttp&host=ccc.xiaozi.us.kg&path=%2Flzjj&mode=auto#vless%2Bxhttp-lzj
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjVcdTUxNDNcdTZDRjBcdTU2RkRcdTcwNzVcdThGNjYiLA0KICAiYWRkIjogIjIyMC4xMjYuMTEuODkiLA0KICAicG9ydCI6ICIxMjM5NCIsDQogICJpZCI6ICIxNjRhNmFkMC00NzZhLTRiYWUtYjc4Zi1hM2QzN2NmMGY0MTQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImh5My5semouY2MudWEiLA0KICAicGF0aCI6ICIvbHpqamoiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
